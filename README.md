@@ -6,7 +6,7 @@
 
 
 ## 🚀 Experience the Magic  
-🔗 **[Step into the enchanted garden here!](https://divya-enchanted-garden.netlify.app)**  
+🔗 **[Step into the enchanted garden here!](https://www.codedex.io/X2iVoxPFn34ml4LWPfLX/live)**  
 
 ## 🌸 About the Project  
 Step into **Divya’s Enchanted Bloomscape**, a magical world where:  
