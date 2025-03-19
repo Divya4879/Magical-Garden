@@ -2,11 +2,11 @@
 
 **A living, breathing digital oasis where nature dances with your touch.**  
 
-![website ss](https://github.com/user-attachments/assets/e2cdf6d5-6b99-44f9-b0c5-d016790b6a24)
+![website ss](https://github.com/user-attachments/assets/38b69d9b-e56b-4ff4-8743-7d48676198b0)
 
 
 ## 🚀 Experience the Magic  
-🔗 **[Step into the enchanted garden here!](https://www.codedex.io/X2iVoxPFn34ml4LWPfLX/live)**  
+🔗 **[Step into the enchanted garden here!](https://divya-enchanted-garden.netlify.app)**  
 
 ## 🌸 About the Project  
 Step into **Divya’s Enchanted Bloomscape**, a magical world where:  
